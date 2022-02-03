@@ -1,0 +1,275 @@
+{
+    "Azure_CIS_131_1_1": {
+        "enabled": false
+    },
+    "Azure_CIS_131_1_2": {
+        "enabled": false
+    },
+    "Azure_CIS_131_1_21": {
+        "enabled": false
+    },
+    "Azure_CIS_131_2_1": {
+        "enabled": false
+    },
+    "Azure_CIS_131_2_2": {
+        "enabled": false
+    },
+    "Azure_CIS_131_2_3": {
+        "enabled": false
+    },
+    "Azure_CIS_131_2_4": {
+        "enabled": false
+    },
+    "Azure_CIS_131_2_5": {
+        "enabled": false
+    },
+    "Azure_CIS_131_2_6": {
+        "enabled": false
+    },
+    "Azure_CIS_131_2_7": {
+        "enabled": false
+    },
+    "Azure_CIS_131_2_8": {
+        "enabled": false
+    },
+    "Azure_CIS_131_2_9": {
+        "enabled": false
+    },
+    "Azure_CIS_131_2_10": {
+        "enabled": false
+    },
+    "Azure_CIS_131_2_11": {
+        "enabled": false
+    },
+    "Azure_CIS_131_2_12": {
+        "enabled": false
+    },
+    "Azure_CIS_131_2_13": {
+        "enabled": false
+    },
+    "Azure_CIS_131_2_14": {
+        "enabled": false
+    },
+    "Azure_CIS_131_2_15": {
+        "enabled": false
+    },
+    "Azure_CIS_131_3_1": {
+        "enabled": false
+    },
+    "Azure_CIS_131_3_2": {
+        "enabled": false
+    },
+    "Azure_CIS_131_3_3": {
+        "enabled": false
+    },
+    "Azure_CIS_131_3_4": {
+        "enabled": false
+    },
+    "Azure_CIS_131_3_5": {
+        "enabled": false
+    },
+    "Azure_CIS_131_3_6": {
+        "enabled": false
+    },
+    "Azure_CIS_131_3_7": {
+        "enabled": false
+    },
+    "Azure_CIS_131_3_8": {
+        "enabled": false
+    },
+    "Azure_CIS_131_3_9": {
+        "enabled": false
+    },
+    "Azure_CIS_131_3_10": {
+        "enabled": false
+    },
+    "Azure_CIS_131_3_11": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_1_1": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_1_2": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_1_3": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_2_1": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_2_2": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_2_3": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_2_4": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_2_5": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_3_1": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_3_2": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_3_3": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_3_4": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_3_5": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_3_6": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_3_7": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_3_8": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_4": {
+        "enabled": false
+    },
+    "Azure_CIS_131_4_5": {
+        "enabled": false
+    },
+    "Azure_CIS_131_5_1_1": {
+        "enabled": false
+    },
+    "Azure_CIS_131_5_1_2": {
+        "enabled": false
+    },
+    "Azure_CIS_131_5_1_3": {
+        "enabled": false
+    },
+    "Azure_CIS_131_5_1_4": {
+        "enabled": false
+    },
+    "Azure_CIS_131_5_1_5": {
+        "enabled": false
+    },
+    "Azure_CIS_131_5_2_1": {
+        "enabled": false
+    },
+    "Azure_CIS_131_5_2_2": {
+        "enabled": false
+    },
+    "Azure_CIS_131_5_2_3": {
+        "enabled": false
+    },
+    "Azure_CIS_131_5_2_4": {
+        "enabled": false
+    },
+    "Azure_CIS_131_5_2_5": {
+        "enabled": false
+    },
+    "Azure_CIS_131_5_2_6": {
+        "enabled": false
+    },
+    "Azure_CIS_131_5_2_7": {
+        "enabled": false
+    },
+    "Azure_CIS_131_5_2_8": {
+        "enabled": false
+    },
+    "Azure_CIS_131_5_2_9": {
+        "enabled": false
+    },
+    "Azure_CIS_131_5_3": {
+        "enabled": false
+    },
+    "Azure_CIS_131_6_1": {
+        "enabled": false
+    },
+    "Azure_CIS_131_6_2": {
+        "enabled": false
+    },
+    "Azure_CIS_131_6_3": {
+        "enabled": false
+    },
+    "Azure_CIS_131_6_4": {
+        "enabled": false
+    },
+    "Azure_CIS_131_6_5": {
+        "enabled": false
+    },
+    "Azure_CIS_131_6_6": {
+        "enabled": false
+    },
+    "Azure_CIS_131_7_1": {
+        "enabled": false
+    },
+    "Azure_CIS_131_7_2": {
+        "enabled": false
+    },
+    "Azure_CIS_131_7_3": {
+        "enabled": false
+    },
+    "Azure_CIS_131_7_4": {
+        "enabled": false
+    },
+    "Azure_CIS_131_7_5": {
+        "enabled": false
+    },
+    "Azure_CIS_131_7_6": {
+        "enabled": false
+    },
+    "Azure_CIS_131_7_7": {
+        "enabled": false
+    },
+    "Azure_CIS_131_8_1": {
+        "enabled": false
+    },
+    "Azure_CIS_131_8_2": {
+        "enabled": false
+    },
+    "Azure_CIS_131_8_3": {
+        "enabled": false
+    },
+    "Azure_CIS_131_8_4": {
+        "enabled": false
+    },
+    "Azure_CIS_131_8_5": {
+        "enabled": false
+    },
+    "Azure_CIS_131_9_1": {
+        "enabled": false
+    },
+    "Azure_CIS_131_9_2": {
+        "enabled": false
+    },
+    "Azure_CIS_131_9_3": {
+        "enabled": false
+    },
+    "Azure_CIS_131_9_4": {
+        "enabled": false
+    },
+    "Azure_CIS_131_9_5": {
+        "enabled": false
+    },
+    "Azure_CIS_131_9_6": {
+        "enabled": false
+    },
+    "Azure_CIS_131_9_7": {
+        "enabled": false
+    },
+    "Azure_CIS_131_9_8": {
+        "enabled": false
+    },
+    "Azure_CIS_131_9_9": {
+        "enabled": false
+    },
+    "Azure_CIS_131_9_10": {
+        "enabled": false
+    },
+    "Azure_CIS_131_9_11": {
+        "enabled": false
+    }
+}
