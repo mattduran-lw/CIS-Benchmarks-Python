@@ -41,4 +41,4 @@ I could issue this command:
 `python3 main.py --browser chrome --tenent example --action enable --rules all_gcp --platform gcp --project "my-cool-project" --comment "Enabling all CIS benchmarks for my project"`
 
 ## Things to note
-- There are both an "--org" and "--resource-name flags but these are not currently used. In the future, these could let you specify disabling rules for just one org or just one resource
+- There are both an "--org" and "--resource-name" flags but these are not currently used. In the future, these could let you specify disabling rules for just one org or just one resource
