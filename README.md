@@ -42,3 +42,8 @@ I could issue this command:
 
 ## Things to note
 - There are both an "--org" and "--resource-name" flags but these are not currently used. In the future, these could let you specify disabling rules for just one org or just one resource
+- Rules will appear under the Compliance Report page for the given platform. To view them:
+    - Click on the Actions three-dot menu for the rule you'd like to see
+    - Click on Advanced Suppresion
+    - If needed, click on the dropdown arrow for the give rule
+    - You should now see the rule specified under the exceptions
