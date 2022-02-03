@@ -1,0 +1,56 @@
+{
+    "GCP_K8S_1_1": {
+        "enabled": true
+    },
+    "GCP_K8S_1_10": {
+        "enabled": true
+    },
+    "GCP_K8S_1_11": {
+        "enabled": true
+    },
+    "GCP_K8S_1_12": {
+        "enabled": true
+    },
+    "GCP_K8S_1_13": {
+        "enabled": true
+    },
+    "GCP_K8S_1_14": {
+        "enabled": true
+    },
+    "GCP_K8S_1_15": {
+        "enabled": true
+    },
+    "GCP_K8S_1_16": {
+        "enabled": true
+    },
+    "GCP_K8S_1_17": {
+        "enabled": true
+    },
+    "GCP_K8S_1_18": {
+        "enabled": true
+    },
+    "GCP_K8S_1_2": {
+        "enabled": true
+    },
+    "GCP_K8S_1_3": {
+        "enabled": true
+    },
+    "GCP_K8S_1_4": {
+        "enabled": false
+    },
+    "GCP_K8S_1_5": {
+        "enabled": false
+    },
+    "GCP_K8S_1_6": {
+        "enabled": true
+    },
+    "GCP_K8S_1_7": {
+        "enabled": true
+    },
+    "GCP_K8S_1_8": {
+        "enabled": true
+    },
+    "GCP_K8S_1_9": {
+        "enabled": true
+    }
+}
